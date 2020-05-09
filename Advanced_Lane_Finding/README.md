@@ -79,7 +79,7 @@ In this step I created an image with the calculated lanes and the area between t
 
 The function `process_image()` performs the whole previous pipeline on a single image.
 
-Here's a [link to my video result](./output_project_video.mp4)
+Click [here](output_project_video.mp4) to see the output video. 
 
 ---
 
