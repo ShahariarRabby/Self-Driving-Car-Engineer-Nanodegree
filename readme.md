@@ -1,4 +1,9 @@
-# [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) 
+<p align="center">
+<a href="http://www.udacity.com/drive"><img src="https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg" alt="Udacity - Self-Driving Car NanoDegree"></a>
+</p>
+
+# [Self-Driving Car Engineer Nanodegree](http://www.udacity.com/drive) 
+
 
 
 #### Become a Computer Vision Expert
